@@ -90,7 +90,7 @@ setScale(scale: number) - устанавливает размер прелоад
     // Будет создан компонент item.vue с пустым шаблоном компонента в папке components
 ```
 
-Для вызова используется команда dogovor24, возможные аругменты вызова:
+Для вызова используется команда frontend, возможные аругменты вызова:
 * --component %fileName% - создает компонент с именем %fileName% в папке components
 * --store %storeName% - создает модуль vuex с именем %storeName% в папке store 
 * --page %pageName% - создает папку с именем %pageName% в папке pages и файл index.vue внутри
