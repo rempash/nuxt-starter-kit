@@ -25,7 +25,7 @@ $ npm run generate
 * Мы пишем компоненты на фреймворке [VueJS](https://vuejs.org/)
 * Над VueJS мы используем фреймворк для серверного рендеринга [NuxtJS](https://nuxtjs.org/)
 * Для статической типизации используем [TypeScript](https://www.typescriptlang.org) 
-* Для хранения состояния приложения(на клиентие и на сервере одновременно) используем [Vuex](https://vuex.vuejs.org)
+* Для хранения состояния приложения(на клиенте и на сервере одновременно) используем [Vuex](https://vuex.vuejs.org)
 * Для стандартизации UI элементов приложения [Bootstrap Vue](https://bootstrap-vue.js.org/)
 * При создании CSS классов мы опираемся на БЭМ [правила](https://ru.bem.info/methodology/naming-convention/) формировании имен
 * Иконки для приложения нам обеспечивает библиотека [Font-Awesome](https://fontawesome.com/)
