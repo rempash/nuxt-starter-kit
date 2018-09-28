@@ -1,0 +1,11 @@
+// styles entry point
+
+// import external libraries
+$fa-font-path: "~font-awesome/fonts";
+@import "~font-awesome/scss/font-awesome";
+
+// preloader
+@import "include/preloader";
+
+// project variables
+@import "variables";
