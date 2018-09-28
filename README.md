@@ -27,7 +27,7 @@ $ npm run generate
 * Для статической типизации используем [TypeScript](https://www.typescriptlang.org) 
 * Для хранения состояния приложения(на клиентие и на сервере одновременно) используем [Vuex](https://vuex.vuejs.org)
 * Для стандартизации UI элементов приложения [Bootstrap Vue](https://bootstrap-vue.js.org/)
-* Создавания CSS классы мы опираемся на БЭМ [правила](https://ru.bem.info/methodology/naming-convention/) формировании имен
+* При создании CSS классов мы опираемся на БЭМ [правила](https://ru.bem.info/methodology/naming-convention/) формировании имен
 * Иконки для приложения нам обеспечивает библиотека [Font-Awesome](https://fontawesome.com/)
 
 ### VueJS class-styled components
